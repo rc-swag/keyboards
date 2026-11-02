@@ -132,7 +132,7 @@ Chinese language content developed and copyright by Linguasoft.</Description>
     <Keyboard>
       <Name>Simplified Chinese</Name>
       <ID>cs_pinyin</ID>
-      <Version>1.4.1</Version>
+      <Version>1.4.2</Version>
       <Languages>
         <Language ID="zh">Chinese</Language>
       </Languages>
